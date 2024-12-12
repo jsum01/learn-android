@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button1
+id button2
+id frag_container
+id main
+layout activity_main
+layout fragment_first
+layout fragment_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.Fragment_practice
+style Theme.Fragment_practice
+xml backup_rules
+xml data_extraction_rules
