@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnAdd
+id btnDelete
+id btnList
+id btnSave
+id etClient
+id etCount
+id etProduct
+id fragmentContainer
+id main
+id rvList
+id tvAmount
+id tvClient
+id tvIdx
+id tvProduct
+layout activity_main
+layout fragment_edit
+layout fragment_list
+layout item_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.Order_mgr
+style Theme.Order_mgr
+xml backup_rules
+xml data_extraction_rules
